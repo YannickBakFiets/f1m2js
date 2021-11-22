@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>f1m2js</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 id="kopje">Museum online javascript</h1>
+    <p id=mkZwart>maak achtergrond kleur zwart</p>
+        <script type="text/javascript" >
+            const kopje = document.getElementById("kopje");
+            const mkZwart = document.getElementById("mkZwart");
+
+            kopje.style.backgroundColor = "red"
+
+            kopje.addEventListener('click',voeruitkopje);
+            mkZwart.addEventListener('click',voeruitzwart);
+
+            function voeruitkopje(){
+                kopje.style.backgroundColor = "black";
+                kopje.style.color = "white";
+            }
+
+            function voeruitzwart(){
+                document.body.style.backgroundColor = "black";
+                document.body.style.color = "white";
+            }
+
+        </script>
+<body>
+</html>
