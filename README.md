@@ -6,3 +6,6 @@
 
 # opdracht 2 Boodschappen
 (Live view: )[http://127.0.0.1:5500/Javascript/web/les2-boodschappen/]
+
+# opdracht 3 Slideshow
+(Live view: )[http://127.0.0.1:5500/Javascript/web/les-3-slideshow/index.html]
