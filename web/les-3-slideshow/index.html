@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Slideshow</title>
+</head>
+<body>
+    <h1>Slideshow of weird cat pictures!</h1>
+    <div class="button" onclick="Onclick()">Click for the next image</div>
+    <div class="button2" onclick="onclick2()">Click for the last image</div>
+    <img id="img" src="https://en.meming.world/images/en/b/b9/Cursed_Cat.jpg" alt="image of a black cat with its arms up">
+    <script>
+        var position = 0;
+        var img1 = "https://en.meming.world/images/en/b/b9/Cursed_Cat.jpg"
+        var img2 = "https://i.pinimg.com/564x/bc/02/a2/bc02a2d21a1053730812a8120178ce34.jpg"
+        var img3 = "https://i.pinimg.com/736x/27/a4/7c/27a47cbd66f5b9137844de7f39fbcdea.jpg"
+        var img4 = "https://i1.sndcdn.com/avatars-P4GWzY12qeelEwEG-bf198g-t500x500.jpg"
+        var img5 = "https://i.ytimg.com/vi/hjR76DQi6HM/hqdefault.jpg"
+        var img6 = "https://cursedcats.com/1.png"
+
+        function Onclick(){
+            var imgElement = document.getElementById("img");
+            position = position + 1;
+            if(position == 6){
+                position = 0;
+            }
+            if(position == 0){
+                imgElement.src = img1;
+            }
+            if(position == 1){
+                imgElement.src = img2;
+            }
+            if(position == 2){
+                imgElement.src = img3;
+            }
+            if(position == 3){
+                imgElement.src = img4;
+            }
+            if(position == 4){
+                imgElement.src = img5;
+            }
+            if(position == 5){
+                imgElement.src = img6;
+            }
+
+        }
+
+        function onclick2(){
+            var imgElement = document.getElementById("img");
+            position = position - 1;
+            if(position == -1){
+                position = 5;
+            }
+            if(position == 0){
+                imgElement.src = img1;
+            }
+            if(position == 1){
+                imgElement.src = img2;
+            }
+            if(position == 2){
+                imgElement.src = img3;
+            }
+            if(position == 3){
+                imgElement.src = img4;
+            }
+            if(position == 4){
+                imgElement.src = img5;
+            }
+            if(position == 5){
+                imgElement.src = img6;
+            }
+
+        }
+       
+    </script>
+</body>
+</html>
