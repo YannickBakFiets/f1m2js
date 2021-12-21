@@ -1,0 +1,10 @@
+#containter{
+    background-color: gray;
+    width: 700px;
+    height: 500px;
+    margin: 100px auto auto auto;
+}
+
+body{
+    background-color: gray;
+}
