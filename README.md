@@ -2,13 +2,13 @@
 ## Javascript
 
 # opdracht 1 background color
-(live view: )[http://32508.hosts1.ma-cloud.nl/f1m2js/les1-background-color/]
+[http://32508.hosts1.ma-cloud.nl/f1m2js/les1-background-color/](Live view: )
 
 # opdracht 2 Boodschappen
-(Live view: )[http://32508.hosts1.ma-cloud.nl/f1m2js/les2-boodschappen/]
+[http://32508.hosts1.ma-cloud.nl/f1m2js/les2-boodschappen/](Live view: )
 
 # opdracht 3 Slideshow
-(Live view: )[http://32508.hosts1.ma-cloud.nl/f1m2js/les-3-slideshow/]
+[http://32508.hosts1.ma-cloud.nl/f1m2js/les-3-slideshow/](Live view: )
 
 # opdracht 4 Seizoenen
-(Live view: )[]
+[http://32508.hosts1.ma-cloud.nl/f1m2js/les-4-seizoenen/](Live view: )
