@@ -12,3 +12,6 @@
 
 # opdracht 4 Seizoenen
 (Live view: )[http://32508.hosts1.ma-cloud.nl/f1m2js/les-4-seizoenen/]
+
+# opdracht 5 Silverbullet
+(Live view: )[http://32508.hosts1.ma-cloud.nl/f1m2js/les-5-Silverbullet/]
