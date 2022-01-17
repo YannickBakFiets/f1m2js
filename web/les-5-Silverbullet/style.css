@@ -1,0 +1,20 @@
+body{
+    background-color: BlueViolet;
+}
+
+#container{
+    width: 900px;
+    height: 600px;
+    margin: 50px auto auto auto;
+    display: grid;
+    grid-template-columns: auto auto;
+    border: solid 5px black;
+}
+
+#MyInteraction{
+    padding: 10px;
+}
+
+img{
+    border-right: solid 5px black;
+}
