@@ -9,4 +9,4 @@ opdracht 3 Slideshow [http://32508.hosts1.ma-cloud.nl/f1m2js/les-3-slideshow/]
 
 opdracht 4 Seizoenen [http://32508.hosts1.ma-cloud.nl/f1m2js/les-4-seizoenen/]
 
-opdracht 5 Silverbullet [http://32508.hosts1.ma-cloud.nl/f1m2js/les-5-Silverbullet/]
+opdracht 5 + 6 Silverbullet [http://32508.hosts1.ma-cloud.nl/f1m2js/les-5-Silverbullet/]
