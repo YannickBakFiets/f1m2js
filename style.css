@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(39, 155, 116);
+}
+
+p{
+    font-size: 50px;
+    font-family: 'Trebuchet MS';
+    color: rgb(255, 208, 0);
+}
+
+img{
+    height: 100px;
+    width: auto;
+}
+
+button{
+    padding: 5px;
+    margin: 5px;
+    color: black;
+    border-bottom: solid black;
+    font-size: 25px;
+    font-family: 'Trebuchet MS';
+    background: white;
+    display: list-item;
+    transition: all .2s ease-in-out;
+}
+
+button:hover{
+    background-color: rgb(29, 250, 176);
+    color: rgb(255, 208, 0);
+    transform: scale(1.1);
+}
+
+a{
+    font-style: none;
+}
